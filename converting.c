@@ -3,6 +3,12 @@
 #define BUFFER_SIZE 80
 #include "converting.h"
 
+/*
+Author: Karl Shiu, bkshiu1@myseneca.ca, 131531246, 30/11/2024, CPR101NDD, Final Group Project
+converting.c : Module 3
+Purpose: Convert string to integer
+*/
+
 // V1: Convert string to integer
 void converting(void) {
     printf("*** Start of Converting Strings to int Demo ***\n");
